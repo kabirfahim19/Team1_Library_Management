@@ -1,0 +1,5 @@
+*.o
+library
+library.exe
+.vscode/
+.DS_Store
