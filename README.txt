@@ -108,3 +108,19 @@ The application automatically creates and updates data files used for:
 Do not delete these files while the program is running.
 
 ---
+## Team Members & Contributions
+
+| Member | GitHub | Contribution |
+|--------|--------|--------------|
+| Kabir Md Fahim | kabirfahim19 | Main program flow, Admin features, repository setup |
+| Iftekhar Fahim | fa-him2002 | Book and Magazine classes |
+| Miraj | MIRAJ-MD | Member class, borrow record management |
+| Hossain Fahim | - | File persistence (FileManager), Library core logic |
+
+## OOP Concepts Used
+
+- Inheritance: Book and Magazine inherit from Item; Admin and Member inherit from User
+- Polymorphism: virtual functions of abstract Item and User classes overridden in derived classes
+- Encapsulation: private data members with public getters/setters
+- Abstraction: abstract base classes (Item, User)
+- File Handling: FileManager handles saving/loading catalog, members, and borrow records
