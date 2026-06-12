@@ -110,12 +110,12 @@ Do not delete these files while the program is running.
 ---
 ## Team Members & Contributions
 
-| Member | GitHub | Contribution |
-|--------|--------|--------------|
-| Kabir Md Fahim | kabirfahim19 | Main program flow, Admin features, repository setup |
-| Iftekhar Fahim | fa-him2002 | Book and Magazine classes |
-| Miraj | MIRAJ-MD | Member class, borrow record management |
-| Hossain Fahim | - | File persistence (FileManager), Library core logic |
+| Member              | GitHub | Contribution |
+|--------             |--------|--------------|
+| Kabir Md Fahim      | kabirfahim19 | Main program flow, Admin features, repository setup |
+| Hossain fahim       | hossain | Book and Magazine classes |
+| Miraj               | MIRAJ-MD | Member class, borrow record management |
+| ifthekar Fahim      | fa-him2002| File persistence (FileManager), Library core logic |
 
 ## OOP Concepts Used
 
