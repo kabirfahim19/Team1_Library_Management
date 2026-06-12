@@ -1,3 +1,4 @@
+// Author: Iftekhar Fahim
 #include "Magazine.h"
 
 /*
